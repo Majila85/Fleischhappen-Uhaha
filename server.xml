@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="Fleischhappen - UHAHA" Logo="" Description="Server Modpack">
+        <Server Name="Fleischhappen UHAHA" Logo="">
+            <Description>
+                Horns for Vehicles
+				Bdubyah’s Vehicles All in One
+				Lawn Mower
+				Gopher’s Foods
+				War3zuk FarmLife v3 Enhanced
+				Sphereii’s Legacy Distant Terrain Mod
+				SS Terrain
+				Zeeeniiis Furniture Store
+				Small Drawbridge
+				PhD Disassemble It (A20 and A19.6)
+            </Description>
+            <Version>Latest</Version>
+            <DownloadMode>Clone</DownloadMode>
+            <Downloads>
+                <Download>https://dev.azure.com/pouellette25/Greys%20Prophecy%20a20/_git/Greys%20Prophecy%20a20</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
+</Servers>
